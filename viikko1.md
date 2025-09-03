@@ -40,12 +40,12 @@ public class Main {
 
 Satuin myös löytämään tämän melko hienon kuvan kissasta.
 
-![Kissan kuva](https://pixabay.com/photos/cat-kitten-pet-animal-lovely-9769723/)
+![Kissan kuva](https://www.pexels.com/photo/close-up-photo-of-cute-sleeping-cat-416160/)
 
 <br>
 
 Tässä taulukossa on tietoa siitä, mitä kissat syö ja milloin ne nukkuu:
-| Ruoka | Unet |
-| ----- | ---- |
-| Hiiret | Yöllä |
+| Ruoka       | Nukkuu   |
+| ----------- | -------- |
+| Hiiret      | Yöllä    |
 | Kissanruoka | Päivällä |
